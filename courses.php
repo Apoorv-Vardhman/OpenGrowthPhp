@@ -182,13 +182,7 @@
 <script src="assets/js/bootstrap.min.js"></script>
 
 <script>
-    $("#search_box").hide();
-    $("#search").on('click',function () {
-        $("#search").attr('style', 'display: none !important');
-        //$("#search").hide();
-        $("#search_box").show();
 
-    })
 </script>
 </body>
 </html>

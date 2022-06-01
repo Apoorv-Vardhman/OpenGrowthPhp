@@ -520,13 +520,7 @@
 <script src="assets/js/owl-carousel.js"></script>
 
 <script>
-    $("#search_box").hide();
-    $("#search").on('click',function () {
-        $("#search").attr('style', 'display: none !important');
-        //$("#search").hide();
-        $("#search_box").show();
 
-    })
     $("#mentorSays").owlCarousel({
         autoplay: false,
         rewind: true,
