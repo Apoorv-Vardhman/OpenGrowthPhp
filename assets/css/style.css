@@ -744,6 +744,15 @@ a{
     content: "\f106";
 }
 
+.navbar [aria-expanded="true"] .fas:before {
+    content: "\f002";
+}
+.navbar-light .navbar-nav .nav-link:hover> .nav-item .fa-search{
+    color: #FFFFFF;
+}
+.nav-item .fa-search:hover{
+    color: #FFFFFF;
+}
 [data-toggle="collapse"].collapsed .fas:before {
     content: "\f107";
 }
@@ -1960,6 +1969,19 @@ body{
     margin: 0 20px;
 }
 
+.dropdown-toggle::after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: none;
+    border-right: none;
+    border-bottom: 0;
+    border-left: none;
+}
+.navbar .dropdown-menu{
+    border: none;
+}
 #carousel .owl-item .blog-author img{
     width: auto;
 }

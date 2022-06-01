@@ -26,7 +26,8 @@
 
             <div class="mx-auto px-4"><a class="" href="index.php">
                     <img src="assets/images/logo.png" class="company-logo">
-                </a></div>
+                </a>
+            </div>
 
             <div class="collapse navbar-collapse nav-fill w-100" id="nav-right">
 
@@ -37,13 +38,16 @@
                     <li class="nav-item px-2">
                         <a class="nav-link" href="courses.php">Courses</a>
                     </li>
-                    <li class="nav-item d-flex align-items-center" id="search">
-                        <i class="fas fa-search" ></i>
-                    </li>
-                    <li class="nav-item" id="search_box">
-                        <div class="search-box">
-                            <i class="fas fa-search"></i>
-                            <input class="search-txt" type="text" name="" placeholder="Search">
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
+                            <i class="fas fa-search" ></i>
+                        </a>
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <div class="search-box">
+                                <i class="fas fa-search"></i>
+                                <input class="search-txt" type="text" name="" placeholder="Search">
+                            </div>
                         </div>
                     </li>
                     <li class="nav-item">

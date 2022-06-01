@@ -171,13 +171,7 @@
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/12.1.6/js/intlTelInput.min.js"></script>
 <script>
-    $("#search_box").hide();
-    $("#search").on('click',function () {
-        $("#search").attr('style', 'display: none !important');
-        //$("#search").hide();
-        $("#search_box").show();
 
-    })
     let telInput = $("#phone")
 
     // initialize
