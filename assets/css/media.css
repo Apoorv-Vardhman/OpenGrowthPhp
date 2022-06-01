@@ -1,0 +1,134 @@
+
+@media only screen and (min-width: 300px) and (max-width: 600px){
+    .banner-list .banner-card{
+        margin-top: 10px;
+    }
+    .sm-mt-10{
+        margin-top: 10px;
+    }
+
+    .sm-ml-10{
+        margin-left: 10px;
+    }
+
+    .sm-mr-10{
+        margin-right: 10px;
+    }
+
+    .sm-mt-20{
+        margin-top: 20px;
+    }
+
+    .sm-br-10{
+        border-radius: 10px !important;
+    }
+
+    .mentor-links a{
+        margin: 5px 10px;
+    }
+
+    .sm-mb-20{
+        margin-bottom: 20px;
+    }
+    .growth-img img{
+        width: 100%;
+    }
+    .lg-pr-60{
+        padding-right: 0;
+    }
+    .company-logo{
+        transform: scale(1);
+        width: 150px;
+    }
+    .sm-pl-10{
+        padding-left: 10px;
+    }
+    .team-single-img img {
+        height: 300px;
+        width: 100%;
+    }
+    .course-preview-img img {
+        transform: scale(1);
+    }
+    .course-preview {
+        margin-top: 10px;
+    }
+    .mr-hr-10{
+        margin: 0 10px;
+    }
+
+    .mentorship-start img{
+        position: initial;
+    }
+
+    .mentor-say-card-img img{
+        margin-top: 0;
+    }
+    .mentor-say-card-img{
+        position: initial;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width: 1200px)
+{
+    .growth-img img{
+        width: 100%;
+    }
+    .team-single-img img {
+        height: 300px;
+        width: 100%;
+    }
+    .sm-mt-10{
+        margin-top: 10px;
+    }
+    .course-preview-img img {
+        transform: scale(1);
+    }
+    .course-preview {
+        margin-top: 10px;
+    }
+    .sm-mb-20{
+        margin-bottom: 20px;
+    }
+
+    .student-course-title-tag-1{
+        display: block;
+    }
+    .student-course-title-tag-2{
+        display: block;
+    }
+    .rating .user-rating{
+        display: block;
+        border-radius: 10px;
+        padding: 3px 5px;
+    }
+    .footer-logo img{
+        width: 100%;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .apply-desc .paragraph{
+        display: flex;
+        justify-content: center;
+    }
+    .apply-desc p{
+        width: 70%;
+    }
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}
