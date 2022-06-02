@@ -24,21 +24,21 @@
             <div class="col-md-12">
                 <div class="mentor-detail-card">
                     <div class="row">
-                        <div class="col-md-3">
+                        <div class="col-lg-3 col-md-4">
                             <div class="mentor-detail-img">
                                 <img src="assets/images/mentor-detail-image.png" alt="Image not found">
                             </div>
                         </div>
-                        <div class="col-md-7 d-flex align-items-center w-100">
+                        <div class="col-lg-6 col-md-8 d-flex align-items-center ">
                             <div class="mentor-detail-desc w-100">
                                 <p>Instructor</p>
                                 <h3>Supriya Devnath</h3>
                                 <h5>Developer (Android Speciality)</h5>
-                                <span class="p-1"><i class="fas fa-map-marker-alt"></i> Kolkata, West Bengal, INDIA</span>
+                                <span class="p-1"><i class="fas fa-map-marker-alt"></i> <span class="ml-2">Kolkata, West Bengal, INDIA</span> </span>
                                 <div class="mentor-tag p-2">
-                                    <span>Web Development</span>
-                                    <span>Artificial Intelligence</span>
-                                    <span>Design Thinking</span>
+                                    <span class="p-10-16">Web Development</span>
+                                    <span class="p-10-16">Artificial Intelligence</span>
+                                    <span class="p-10-16">Design Thinking</span>
                                 </div>
                                 <div class="mentor-social p-2">
                                     <i class="fab fa-facebook primary-color"></i>
@@ -48,34 +48,34 @@
                                 </div>
                                 <div class="mentor-record">
                                     <div class="row">
-                                        <div class="col mentor-br">
-                                            <h3>03 Years</h3>
+                                        <div class="col-lg-3 col-md-6 mentor-br">
+                                            <h3 class="mb-0">03 Years</h3>
                                             <p>Experience</p>
                                         </div>
-                                        <div class="col mentor-br">
-                                            <h3>4.7 Rating</h3>
+                                        <div class="col-lg-4 col-md-6 mentor-br">
+                                            <h3 class="mb-0">4.7 Rating</h3>
                                             <p><img src="assets/images/icons/mentor-rating.svg" class="w-auto"></p>
                                         </div>
-                                        <div class="col mentor-br">
-                                            <h3>21,006</h3>
+                                        <div class="col-lg-3 col-md-6 mentor-br">
+                                            <h3 class="mb-0">21,006</h3>
                                             <p>Students</p>
                                         </div>
-                                        <div class="col ">
-                                            <h3>10</h3>
+                                        <div class="col-lg-2 col-md-6 ">
+                                            <h3 class="mb-0">10</h3>
                                             <p>Courses</p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-2 mentor-buttons">
+                        <div class="col-lg-3 col-md-4 mentor-buttons">
                             <div class="share">
-                                <a href="" class="btn btn-outline-primary w-100">Share Profile <i class="fas fa-share-alt"></i></a>
+                                <a href="" class="btn btn-outline-primary fs-16">Share Profile <i class="fas fa-share-alt"></i></a>
                             </div>
-                            <div class="">
-                                <a href="" class="btn btn-primary w-100"><i class="fas fa-phone-alt"></i> Request a call</a>
-                                <a href="" class="btn btn-outline-primary mt-1 w-100"><i class="fas fa-comment"></i> Message me</a>
-                                <a href="" class="btn btn-outline-primary mt-2 w-100"><i class="fas fa-heart"></i> Add to favorite </a>
+                            <div class="mentor-action">
+                                <a href="" class="btn btn-primary "><i class="fas fa-phone-alt"></i> Request a call</a>
+                                <a href="" class="btn btn-outline-primary mt-1 "><i class="fas fa-comment"></i> Message me</a>
+                                <a href="" class="btn btn-outline-primary mt-2 "><i class="fas fa-heart"></i> Add to favorite </a>
                             </div>
                         </div>
                     </div>
@@ -132,10 +132,10 @@
                         A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!
                     </p>
                     <div class="d-flex align-items-center">
-                        <p class="fs-10 pb-0 mb-0">Was this review helpful?</p>
+                        <p class="fs-12 pb-0 mb-0">Was this review helpful?</p>
                         <img src="assets/images/icons/like.svg" class="ml-3">
                         <img src="assets/images/icons/dislike.svg" class="ml-3">
-                        <span class="fs-10 ml-3">Report</span>
+                        <span class="fs-12 ml-3">Report</span>
                     </div>
                 </div>
                 <hr class="hr1"/>
@@ -164,10 +164,10 @@
                         A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!
                     </p>
                     <div class="d-flex align-items-center">
-                        <p class="fs-10 pb-0 mb-0">Was this review helpful?</p>
+                        <p class="fs-12 pb-0 mb-0">Was this review helpful?</p>
                         <img src="assets/images/icons/like.svg" class="ml-3">
                         <img src="assets/images/icons/dislike.svg" class="ml-3">
-                        <span class="fs-10 ml-3">Report</span>
+                        <span class="fs-12 ml-3">Report</span>
                     </div>
                 </div>
                 <hr class="hr1" />
@@ -196,10 +196,10 @@
                         A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!
                     </p>
                     <div class="d-flex align-items-center">
-                        <p class="fs-10 pb-0 mb-0">Was this review helpful?</p>
+                        <p class="fs-12 pb-0 mb-0">Was this review helpful?</p>
                         <img src="assets/images/icons/like.svg" class="ml-3">
                         <img src="assets/images/icons/dislike.svg" class="ml-3">
-                        <span class="fs-10 ml-3">Report</span>
+                        <span class="fs-12 ml-3">Report</span>
                     </div>
                 </div>
             </div>
@@ -226,9 +226,9 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -245,9 +245,9 @@
                         <h2 class="text-center text-primary">Supriya Devnath</h2>
                         <p>Developer (Android Speciality)</p>
                         <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up ecosystem</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -264,9 +264,9 @@
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up ecosystem</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -281,9 +281,9 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -300,9 +300,9 @@
                         <h2 class="text-center text-primary">Supriya Devnath</h2>
                         <p>Developer (Android Speciality)</p>
                         <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up ecosystem</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -319,9 +319,9 @@
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up ecosystem</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>

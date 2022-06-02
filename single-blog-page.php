@@ -21,21 +21,21 @@
 <section class="single-blog-section">
     <div class="container">
         <div class="row">
-            <div class="col-lg-8">
+            <div class="col-lg-7">
                 <div class="row">
                     <div class="col-md-3">
                         <span class="blog-topic-tech">Technology</span>
                     </div>
                     <div class="col-md-9">
                         <div class="blog-sidebar-action row">
-                            <div class="col-sm-2 pr-0 pl-0">
-                                <span class="fs-15"><img src="assets/images/icons/share.svg" class="w-auto d-inline"> Share </span>
+                            <div class="col-sm-2 col-lg-2 pr-0 pl-0">
+                                <span class="fs-15"><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-2">Share</span> </span>
                             </div>
-                            <div class="col-sm-4 pr-0 pl-0">
-                                <span class="fs-15"><img src="assets/images/icons/chat.svg" class="w-auto d-inline"> 786 Comments </span>
+                            <div class="col-sm-4 col-lg-3 pr-0 pl-0">
+                                <span class="fs-15"><img src="assets/images/icons/chat.svg" class="w-auto d-inline"> <span class="ml-2">786 Comments</span> </span>
                             </div>
-                            <div class="col-sm-3 pl-1 pr-0">
-                                <span class="fs-15"><img src="assets/images/icons/view.svg" class="w-auto d-inline"> 4.6k </span>
+                            <div class="col-sm-3 col-lg-4 pl-1 pr-0">
+                                <span class="fs-15"><img src="assets/images/icons/view.svg" class="w-auto d-inline"> <span class="ml-2">4.6k</span> </span>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
                         <div class="article-pagination mt-5">
                             <h6>Previous Article</h6>
                         </div>
-                        <div class="must-read-card mt-3">
+                        <div class="must-read-card mt-3 padding-16">
                             <div class="row">
                                 <div class="col-4 pr-0">
                                     <img src="assets/images/blogs/blog2.png" class="h-100 br-8">
@@ -162,7 +162,7 @@
                         <div class="article-pagination mt-5">
                             <h6>Next Article</h6>
                         </div>
-                        <div class="must-read-card mt-3">
+                        <div class="must-read-card mt-3 padding-16">
                             <div class="row">
                                 <div class="col-4 pr-0">
                                     <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
@@ -204,7 +204,7 @@
                             <span>August 14, 2019 At 5:48 am</span>
                         </div>
                     </div>
-                    <p>A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!</p>
+                    <p class="mt-2">A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!</p>
 
                 </div>
 
@@ -218,15 +218,15 @@
                             <span>August 14, 2019 At 5:48 am</span>
                         </div>
                     </div>
-                    <p>A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!</p>
+                    <p class="mt-2">A good and clear course! The reason I don't rate it five stars is because i wish there were even more neat tips and tricks / shortcuts that a more experienced user could learn from. In this case it would also be nice to see some "edge cases" of the use of this app, and how to maneuver this in an elgant way. But all in all a good and consise Figma course!</p>
 
                 </div>
 
 
             </div>
-            <div class="col-lg-4">
+            <div class="col-lg-5 pl-5">
                 <div class="row ">
-                    <div class="search-group flex-fill mr-hr-10 " style="border: 1px solid #B7B7B7;box-shadow: none">
+                    <div class="search-group flex-fill mr-hr-10 " style="border: 1px solid #B7B7B7;box-shadow: none;padding: 14px">
                         <input class="input-search" placeholder="Type here to search">
                         <i class="fas fa-search"></i>
                     </div>
@@ -253,7 +253,7 @@
                                 </div>
                                 <div class="row mt-3 mb-3">
                                     <div class="col-sm-12">
-                                        <a href="" class="btn btn-primary w-100">View Details</a>
+                                        <a href="" class="btn btn-primary w-100 br-8 fw-700">View Details</a>
                                     </div>
                                 </div>
                             </div>
@@ -286,7 +286,7 @@
                 <?php
                     for($i=0;$i<5;$i++)
                     { ?>
-                        <div class="must-read-card mt-3">
+                        <div class="must-read-card mt-3 padding-16">
                             <div class="row">
                                 <div class="col-4 pr-0">
                                     <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
@@ -312,7 +312,7 @@
                     <form>
                         <input placeholder="email id" class="w-100">
                         <div class="row justify-content-center mt-3 mb-3">
-                            <button type="submit" class="btn btn-primary">Subscribe</button>
+                            <button type="submit" class="btn btn-primary fs-20 fw-700 br-8">Subscribe</button>
                         </div>
                     </form>
                 </div>
@@ -322,14 +322,14 @@
                     <img src="assets/images/blog-side-social.png">
                 </div>
                 <hr class="hr1 mt-4 mb-3"/>
-                <div>
+                <div style="margin-top: 20px">
                     <img src="assets/images/blogs/blog-8.png">
                 </div>
 
                 <div class="blog-comment-1">
                     <h1>Must Read</h1>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog1.png" class="h-100 br-8">
@@ -344,7 +344,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog2.png" class="h-100 br-8">
@@ -359,7 +359,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
@@ -375,7 +375,7 @@
                     </div>
                 </div>
 
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog1.png" class="h-100 br-8">
@@ -390,7 +390,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog2.png" class="h-100 br-8">
@@ -405,7 +405,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
@@ -421,7 +421,7 @@
                     </div>
                 </div>
 
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog1.png" class="h-100 br-8">
@@ -436,7 +436,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog2.png" class="h-100 br-8">
@@ -451,7 +451,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
@@ -474,7 +474,7 @@
                 <div class="blog-comment-1">
                     <h1>Any category here</h1>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog1.png" class="h-100 br-8">
@@ -489,7 +489,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog2.png" class="h-100 br-8">
@@ -504,7 +504,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="must-read-card mt-3">
+                <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
                             <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
