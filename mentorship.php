@@ -20,10 +20,10 @@
 <section class="section-banner">
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-md-6 col-sm-12">
+            <div class="col-lg-6 col-sm-12">
                 <img src="assets/images/apply-banner.svg" alt="banner " class="w-auto">
             </div>
-            <div class="col-md-5 col-sm-12">
+            <div class="col-lg-6 col-sm-12">
                 <h1 class="heading-1"><span class="learn">Meet Our </span>Worldclass mentors</h1>
                 <p class="paragraph-1">Get to know thew worldclass experience holders to share their experiences with you</p>
                 <div class="row justify-content-center">
@@ -46,9 +46,9 @@
             <div class="col-md-6  d-flex align-items-center">
                 <div class="design-content">
                     <h2>ARE YOU MENTOR MATERIAL?</h2>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
-                    <div class="">
-                        <a href="" class="btn button-primary br-8">Apply For Mentorship </a>
+                    <p class="mt-3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>
+                    <div class="mt-4">
+                        <a href="" class="btn btn-primary br-8">Apply For Mentorship </a>
                     </div>
                 </div>
 
@@ -63,12 +63,14 @@
 </section>
 <!--design end-->
 
+
+
 <!--team start-->
-<section class="section-team mt-0">
+<section class="section-team mt-0 bg-white" >
 
     <div class="container team">
         <div class="row justify-content-center">
-            <h1 class="heading-title text-primary">MENTORS AND COACHES</h1>
+            <h1 class="heading-title text-primary">OUR MENTORS AND COACHES</h1>
         </div>
         <div class="row mt-3">
             <div class="col-12">
@@ -76,20 +78,6 @@
             </div>
         </div>
 
-        <div class="mentor-links text-center">
-            <a href="" class="btn btn-primary br-8">System Design</a>
-            <a href="" class="btn btn-outline-primary br-8">Leadership</a>
-            <a href="" class="btn btn-outline-primary br-8">Digital Marketing</a>
-            <a href="" class="btn btn-outline-primary br-8">Interaction Design</a>
-            <a href="" class="btn btn-outline-primary br-8">Raise Capital</a>
-            <a href="" class="btn btn-outline-primary br-8">Financial</a>
-            <a href="" class="btn btn-outline-primary br-8">Entrepreneurship</a>
-            <a href="" class="btn btn-outline-primary br-8">Management</a>
-            <a href="" class="btn btn-outline-primary br-8">User Interaction</a>
-            <a href="" class="btn btn-outline-primary br-8">Start Up Club</a>
-            <a href="" class="btn btn-outline-primary br-8">Market Trends</a>
-        </div>
-
         <div class="row">
 
             <div class="col-md-4 mt-5 sm-mt-10 sm-ml-10 sm-mr-10">
@@ -101,9 +89,9 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
@@ -119,7 +107,7 @@
                         <div class="d-flex justify-content-center">
                             <span class="person_skill">System Design</span>
                             <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -133,9 +121,9 @@
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
@@ -150,9 +138,9 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
@@ -168,7 +156,7 @@
                         <div class="d-flex justify-content-center">
                             <span class="person_skill">System Design</span>
                             <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -182,9 +170,9 @@
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
@@ -199,9 +187,9 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
@@ -217,7 +205,7 @@
                         <div class="d-flex justify-content-center">
                             <span class="person_skill">System Design</span>
                             <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
@@ -231,62 +219,14 @@
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Start Up</span>
+                            <span class="person_skill">Design Management</span>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4 mt-5 sm-mt-10  sm-ml-10 sm-mr-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person1.png" class="person1">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Sai Ganesh</h2>
-                        <p>Brand Head, Dunzo</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mt-5 sm-mt-10  sm-ml-10 sm-mr-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person2.png" class="person2">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Priya Nath</h2>
-                        <p>Community Head, Open Growth</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 mt-5 sm-mt-10  sm-ml-10 sm-mr-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person3.png" class="person3">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Riya Chhabra</h2>
-                        <p>Strategist, Meta Incorporation</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
 
     </div>
@@ -294,17 +234,58 @@
 </section>
 <!--team end-->
 
+
+<section class="section-goal">
+    <div class="container">
+        <div class="row grow-t">
+            <div class="col-md-8">
+                <h1>Goal Based Packages</h1>
+                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
+            </div>
+            <div class="col-md-4">
+                <a href="" class="btn btn-primary">View All Packages</a>
+            </div>
+        </div>
+
+        <div class="owl-slider mt-5">
+            <div id="featuredCarousel" class="owl-carousel">
+                <?php
+                    for($i=0;$i<5;$i++)
+                    { ?>
+                        <div class="item">
+                            <div class="blog-single">
+                                <div class="blog-image">
+                                    <img src="assets/images/goal-1.png">
+                                </div>
+                                <div class="d-flex grow-tag mt-3 mb-2">
+                                    <span>Students</span>
+                                    <span>Professionals</span>
+                                </div>
+                                <h4 class="grow-title">Developing Strategy to Manage Startup Finances</h4>
+                                <p class="grow-para">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <a href="" class="btn btn-primary grow-btn">Enroll Now @ ₹ 4999 Only</a>
+                            </div>
+                        </div>
+                 <?php   }
+                ?>
+            </div>
+        </div>
+
+
+    </div>
+</section>
+
+
 <!--popular team start-->
 <section class="section-team bg-white mt-0">
 
     <div class="container team">
-        <div class="row justify-content-center">
-            <h1 class="heading-title text-primary mb-50">Our Popular Mentors</h1>
+        <div class="row justify-content-center mb-3">
+            <h1 class="heading-title text-primary">Our Popular Mentors</h1>
         </div>
 
-        <div class="row">
-
-            <div class="col-md-4 sm-mt-10  sm-ml-10 sm-mr-10">
+        <div class="owl-carousel mt-5" id="popularMentors" >
+            <div class="item">
                 <div class="team-single">
                     <div class="team-single-img">
                         <img src="assets/images/person1.png" class="person1">
@@ -313,46 +294,107 @@
                         <h2 class="text-center text-primary">Sai Ganesh</h2>
                         <p>Brand Head, Dunzo</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4 sm-mt-10  sm-ml-10 sm-mr-10">
+            <div class="item">
                 <div class="team-single">
                     <div class="team-single-img">
-                        <img src="assets/images/person2.png" class="person2">
+                        <div class="person2 d-flex justify-content-center">
+                            <img src="assets/images/priya-nath.png" class="w-auto">
+                        </div>
                     </div>
                     <div class="team-single-content">
-                        <h2 class="text-center text-primary">Priya Nath</h2>
-                        <p>Community Head, Open Growth</p>
+                        <h2 class="text-center text-primary">Supriya Devnath</h2>
+                        <p>Developer (Android Speciality)</p>
                         <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 sm-mt-10  sm-ml-10 sm-mr-10">
+
+            <div class="item">
                 <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person3.png" class="person3">
+                    <div class="team-single-img" >
+                        <div class="person3">
+                            <img src="assets/images/person3.png" class="w-auto">
+                        </div>
                     </div>
                     <div class="team-single-content">
                         <h2 class="text-center text-primary">Riya Chhabra</h2>
                         <p>Strategist, Meta Incorporation</p>
                         <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
+                            <span class="person_skill">Startup</span>
                             <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            <span class="person_skill">Leadership</span>
                         </div>
                     </div>
                 </div>
             </div>
+
+            <div class="item">
+                <div class="team-single">
+                    <div class="team-single-img">
+                        <img src="assets/images/person1.png" class="person1">
+                    </div>
+                    <div class="team-single-content">
+                        <h2 class="text-center text-primary">Sai Ganesh</h2>
+                        <p>Brand Head, Dunzo</p>
+                        <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="team-single">
+                    <div class="team-single-img">
+                        <div class="person2 d-flex justify-content-center">
+                            <img src="assets/images/priya-nath.png" class="w-auto">
+                        </div>
+                    </div>
+                    <div class="team-single-content">
+                        <h2 class="text-center text-primary">Supriya Devnath</h2>
+                        <p>Developer (Android Speciality)</p>
+                        <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="item">
+                <div class="team-single">
+                    <div class="team-single-img" >
+                        <div class="person3">
+                            <img src="assets/images/person3.png" class="w-auto">
+                        </div>
+                    </div>
+                    <div class="team-single-content">
+                        <h2 class="text-center text-primary">Riya Chhabra</h2>
+                        <p>Strategist, Meta Incorporation</p>
+                        <div class="d-flex justify-content-center">
+                            <span class="person_skill">Startup</span>
+                            <span class="person_skill">System Design</span>
+                            <span class="person_skill">Leadership</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 
@@ -371,7 +413,7 @@
                 <p class="text-center text-grey ">Through lots of trial and error, we’ve established a comprehensive four-step application process to help us to identify the individuals who will flourish as growth mentors.</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row mb-100">
             <div class="col-md-3">
                 <div class="process-single">
                     <div class="text-center">
@@ -437,7 +479,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -456,7 +498,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -475,7 +517,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -493,7 +535,7 @@
 <section class="section-get-started">
     <div class="container">
         <div class="row justify-content-center">
-            <div class="col-md-12 col-lg-9">
+            <div class="col-md-12 col-lg-10">
                 <div class="get-started">
                     <div class="row align-items-end mentorship-start">
                         <div class="col-md-2 ">
@@ -533,6 +575,68 @@
         navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
         items: 1,
         stagePadding: 150
+    });
+
+    $("#featuredCarousel").owlCarousel({
+        autoplay: false,
+        rewind: true,
+        margin: 20,
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 8000,
+        smartSpeed: 800,
+        nav: true,
+        navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
+        responsive: {
+            0: {
+                items: 1
+            },
+
+            600: {
+                items: 1
+            },
+
+            1024: {
+                items: 3
+            },
+
+            1366: {
+                items: 3
+            }
+        }
+    });
+
+</script>
+<script>
+
+    $("#popularMentors").owlCarousel({
+        autoplay: false,
+        rewind: true,
+        margin: 20,
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 8000,
+        smartSpeed: 800,
+        nav: false,
+        navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
+        stagePadding: 100,
+        responsive: {
+            0: {
+                items: 1
+            },
+
+            600: {
+                items: 2
+            },
+
+            1024: {
+                items: 3
+            },
+
+            1366: {
+                items: 3
+            }
+        }
     });
 </script>
 </body>

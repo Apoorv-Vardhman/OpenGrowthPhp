@@ -47,27 +47,26 @@
             <?php
                 for($i=0;$i<9;$i++)
                 { ?>
-                    <div class="col-lg-6 col-xl-4 col-md-6">
+                    <div class="col-lg-4 col-xl-4 col-md-6 mt-5">
                         <div class="team-card">
                             <div class="row">
-                                <div class="col-4 position-relative">
+                                <div class="col-5 pl-0 pr-0 position-relative">
                                     <div class="team-card-img ">
-                                        <img src="assets/images/team-person.png">
+                                        <img src="assets/images/sourav.png" class="w-100">
                                     </div>
                                 </div>
-                                <div class="col-8">
-
+                                <div class="col-7 ml-0 pl-0">
                                     <div class="team-card-desc">
                                         <h2>Jaideep Ahlawat</h2>
-                                        <p>Chairman, OpenGrowth & Executive Chairman of MetricStream</p>
-                                        <div class="social-links-team">
+                                        <p class="mb-0">Chairman, OpenGrowth & Executive Chairman of MetricStream</p>
+                                        <div class="social-links-team mt-2">
                                             <i class="fab fa-facebook"></i>
                                             <i class="fab fa-twitter"></i>
                                             <i class="fab fa-youtube"></i>
                                             <i class="fab fa-linkedin"></i>
 
                                         </div>
-                                        <a class="text-link">Know More <i class="fas fa-arrow-right"></i> </a>
+                                        <a class="text-link mt-3">Know More <i class="fas fa-arrow-right"></i> </a>
 
                                     </div>
                                 </div>
@@ -92,27 +91,26 @@
             <?php
             for($i=0;$i<9;$i++)
             { ?>
-                <div class="col-lg-6 col-xl-4 col-md-6">
+                <div class="col-lg-4 col-xl-4 col-md-6 mt-5">
                     <div class="team-card">
                         <div class="row">
-                            <div class="col-4 position-relative">
+                            <div class="col-5 pl-0 pr-0 position-relative">
                                 <div class="team-card-img ">
-                                    <img src="assets/images/team-person.png">
+                                    <img src="assets/images/sourav.png" class="w-100">
                                 </div>
                             </div>
-                            <div class="col-8">
-
+                            <div class="col-7 ml-0 pl-0">
                                 <div class="team-card-desc">
                                     <h2>Jaideep Ahlawat</h2>
-                                    <p>Chairman, OpenGrowth & Executive Chairman of MetricStream</p>
-                                    <div class="social-links-team">
+                                    <p class="mb-0">Chairman, OpenGrowth & Executive Chairman of MetricStream</p>
+                                    <div class="social-links-team mt-2">
                                         <i class="fab fa-facebook"></i>
                                         <i class="fab fa-twitter"></i>
                                         <i class="fab fa-youtube"></i>
                                         <i class="fab fa-linkedin"></i>
 
                                     </div>
-                                    <a class="text-link">Know More <i class="fas fa-arrow-right"></i> </a>
+                                    <a class="text-link mt-3">Know More <i class="fas fa-arrow-right"></i> </a>
 
                                 </div>
                             </div>

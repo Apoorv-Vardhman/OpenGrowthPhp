@@ -17,19 +17,26 @@
 include_once "header.php"
 ?>
 
-<section class="policy-section">
+<section class="error-section">
     <div class="container">
         <div class="row justify-content-center">
-            <h1>Terms & Conditions</h1>
-        </div>
-        <div>
-
+            <div class="col-md-8">
+                <div class="image">
+                    <img src="assets/images/error.png">
+                </div>
+                <h1 class="text-center">Error 404 | Page Not Found</h1>
+                <p class="text-center mt-2">The requested url/page was not found on the server.<br>You can return to the homepage or contact us here.</p>
+                <div class="row justify-content-center mt-4">
+                    <a href="" class="btn btn-primary">Go to Home</a>
+                    <a href="" class="btn btn-secondary ml-3">Contact Us</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
 
 <?php
-    include_once "footer.php";
+include_once "footer.php";
 ?>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>

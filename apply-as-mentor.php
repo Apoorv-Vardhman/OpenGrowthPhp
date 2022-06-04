@@ -26,8 +26,8 @@
             <div class="col-md-5 col-sm-12">
                 <h1 class="heading-1"><span class="learn">Want to become</span> a mentor? </h1>
                 <p class="paragraph-1">Come teach with us and become an instructor and change lives — including your own</p>
-                <div class="row justify-content-center">
-                    <a href="" class="btn button-primary br-8">Get Started</a>
+                <div class="">
+                    <a href="" class="btn btn-primary br-8">Get Started</a>
                 </div>
             </div>
         </div>
@@ -35,44 +35,44 @@
 
     <div class="container mt-5 mb-5">
         <div class="row justify-content-center">
-            <h1 class="heading-title text-primary">So many reasons to start</h1>
+            <h1 class="heading-reason">So many reasons to start</h1>
         </div>
         <div class="row mt-3">
-            <div class="col-md-4">
-                <div class="reason-card d-flex align-items-center">
-                    <div class="reason-card-img">
-                        <img src="assets/images/icons/apply-1.svg" class="w-auto">
+            <div class="col-lg-4 col-md-6">
+                <div class="reason-card row">
+                    <div class="col-lg-4 col-md-5 pl-0 pr-0">
+                        <img src="assets/images/icons/apply-1.svg">
                     </div>
-                    <div class="reason-card-desc">
+                    <div class="col-lg-8 col-md-7">
                         <h2>Teach your way</h2>
                         <p>Publish the course you want, in the way you want, and always have of control your own content.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="reason-card d-flex align-items-center">
-                    <div class="reason-card-img">
-                        <img src="assets/images/icons/apply-2.svg" class="w-auto">
+            <div class="col-lg-4 col-md-6">
+                <div class="reason-card row">
+                    <div class="col-lg-4 col-md-5 pr-0">
+                        <img src="assets/images/icons/apply-2.svg">
                     </div>
-                    <div class="reason-card-desc">
+                    <div class="col-lg-8 col-md-7">
                         <h2>Inspire learners</h2>
                         <p>Teach what you know and help learners explore their interests, gain new skills, and advance their careers.</p>
                     </div>
                 </div>
             </div>
 
-            <div class="col-md-4">
-                <div class="reason-card d-flex align-items-center">
-                    <div class="reason-card-img">
-                        <img src="assets/images/icons/apply-3.svg" class="w-auto">
+            <div class="col-lg-4 col-md-6">
+                <div class="reason-card row">
+                    <div class="col-lg-4 col-md-5 pr-0">
+                        <img src="assets/images/icons/apply-3.svg">
                     </div>
-                    <div class="reason-card-desc">
+                    <div class="col-lg-8 col-md-7">
                         <h2>Get rewarded</h2>
-                        <p>Expand your professional network, build your expertise, and earn money on each paid enrollment.</p>
-                    </div>
+                        <p>Expand your professional network, build your expertise, and earn money on each paid enrollment.</p>                    </div>
                 </div>
             </div>
+
         </div>
     </div>
 
@@ -86,9 +86,9 @@
             <div class="col-md-6  d-flex align-items-center">
                 <div class="design-content">
                     <h2>Design and create your online course today</h2>
-                    <p>Create more compelling online content with this instructional design practices from teaching and learning experts.</p>
-                    <div class="">
-                        <a href="" class="btn button-primary br-8">Watch Full Video <i class="fas fa-play"></i> </a>
+                    <p class="mt-3">Create more compelling online content with this instructional design practices from teaching and learning experts.</p>
+                    <div class="mt-4">
+                        <a href="" class="btn btn-primary br-8">Watch Full Video <i class="fas fa-play"></i> </a>
                     </div>
                 </div>
 
@@ -104,7 +104,7 @@
 <!--design end-->
 
 <!--team start-->
-<section class="section-team bg-white mt-0">
+<section class="section-team bg-white mt-0 pb-4">
 
     <div class="container team">
         <div class="row justify-content-center mb-50">
@@ -112,56 +112,31 @@
         </div>
 
         <div class="row">
+            <?php
+                for($i=0;$i<9;$i++)
+                { ?>
+                    <div class="col-lg-4 mt-5">
+                        <div class="card-7">
+                            <div class="row">
+                                <div class="col-lg-4 col-md-4 pl-3 pr-0">
+                                    <img src="assets/images/card-7-1.png">
+                                </div>
+                                <div class="col-lg-8 col-md-8 d-flex align-items-center">
+                                    <div class="desc">
+                                        <h2 class="mb-1">Sai Ganesh</h2>
+                                        <p class="mb-1">Brand Head, Dunzo</p>
+                                        <div class="card-7-tag">
+                                            <span>System Design</span>
+                                            <span>Basic Design</span>
+                                        </div>
+                                    </div>
+                                </div>
 
-            <div class="col-md-4 sm-mt-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person1.png" class="person1">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Sai Ganesh</h2>
-                        <p>Brand Head, Dunzo</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">Digital Marketing</span>
-                            <span class="person_skill">Leadership Qualities</span>
+                            </div>
                         </div>
                     </div>
-                </div>
-            </div>
-
-            <div class="col-md-4 sm-mt-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person2.png" class="person2">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Priya Nath</h2>
-                        <p>Community Head, Open Growth</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">System Design</span>
-                            <span class="person_skill">Start Up</span>
-                            <span class="person_skill">Design Management</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 sm-mt-10">
-                <div class="team-single">
-                    <div class="team-single-img">
-                        <img src="assets/images/person3.png" class="person3">
-                    </div>
-                    <div class="team-single-content">
-                        <h2 class="text-center text-primary">Riya Chhabra</h2>
-                        <p>Strategist, Meta Incorporation</p>
-                        <div class="d-flex justify-content-center">
-                            <span class="person_skill">Brand Design</span>
-                            <span class="person_skill">System Design</span>
-                            <span class="person_skill">Leadership Qualities</span>
-                        </div>
-                    </div>
-                </div>
-            </div>
+             <?php   }
+            ?>
         </div>
     </div>
 
@@ -176,11 +151,11 @@
             <h1 class="heading-title text-primary">How to apply as a mentor</h1>
         </div>
         <div class="row mt-3 mt-3 justify-content-center">
-            <div class="col-md-9">
-                <p class="text-center text-grey ">Through lots of trial and error, we’ve established a comprehensive four-step application process to help us to identify the individuals who will flourish as growth mentors.</p>
+            <div class="col-md-10">
+                <p>Through lots of trial and error, we’ve established a comprehensive four-step application process to help us to identify the individuals who will flourish as growth mentors.</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row mb-100">
             <div class="col-md-3">
                 <div class="process-single">
                     <div class="text-center">
@@ -246,7 +221,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -265,7 +240,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3  class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -284,7 +259,7 @@
                         <div class="col-sm-9">
                             <div class="mentor-say-card-content pl-3 pt-5 pr-5">
                                 <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                                <h3>Supriya Devnath Developer </h3>
+                                <h3  class="mb-0">Supriya Devnath Developer </h3>
                                 <h5 class="pb-4">(Android Speciality)</h5>
                             </div>
                         </div>
@@ -297,8 +272,8 @@
             <div class="col-md-8">
                 <div class="become-mentor">
                     <h1 class="heading-title text-primary fs-30 text-center">Become an Mentor today</h1>
-                    <p class="text-center">Join one of the world’s largest online learning marketplaces.</p>
-                    <a href="">Book a Session</a>
+                    <p class="text-center mt-2">Join one of the world’s largest online learning marketplaces.</p>
+                    <a href="" class="mt-3 btn btn-primary">Book a Session</a>
                     <span class="d-block text-center">Have any more questions about OpenGrowth mentor mentorship?<br> Write to us at hello@opengrowth.com and we'll be in touch!</span>
                 </div>
             </div>

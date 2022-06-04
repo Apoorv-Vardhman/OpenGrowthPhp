@@ -108,7 +108,17 @@ a{
     padding-top: 40px;
 }
 #featuredCarousel .item{
-    margin: 0 40px;
+    margin: 0 12px;
+}
+#featuredCarousel .owl-nav button.owl-prev{
+    margin-left: -40px;
+    width: 42px;
+    height: 42px;
+}
+#featuredCarousel .owl-nav button.owl-next{
+    margin-right: -40px;
+    width: 42px;
+    height: 42px;
 }
 .heading-1{
     font-weight: 700;
@@ -299,9 +309,11 @@ a{
 }
 .blog-single{
     background: #FFFFFF;
-    box-shadow: 9px 9px 18px 5px rgba(0, 0, 0, 0.05);
+    box-shadow: 0px 0px 33px 6px #DEDEDE;
     border-radius: 38px;
     padding: 30px;
+    margin-top: 13px;
+    margin-bottom: 26px;
 }
 .section-blog{
     margin: 80px 0;
@@ -569,9 +581,90 @@ a{
     background: #E43CFF;
     border-radius: 70px 61px 0px 0px;
 }
+.team-single-img img{
+    padding: 30px 15px 0 15px;
+}
+.grow-tag{
+    margin-top: 27px;
+}
+.grow-tag span{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: center;
+    color: #8B8B8B;
+    padding: 9px;
+    border-radius: 8px;
+    background: #EDEDED;
+}
+.section-goal{
+    margin-top: 150px;
+}
+.grow-t h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #253B7C;
+}
+.grow-t p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #253B7C;
+}
+
+.grow-t .col-md-4{
+    text-align: end;
+}
+.grow-t a{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 23px 45px;
+    border-radius: 8px;
+
+}
+.grow-tag  > span:not(:first-child){
+    margin-left: 10px;
+}
+.grow-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #253B7C;
+    margin-top: 16px;
+}
+.grow-para{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #939292;
+    margin-bottom: 25px;
+    margin-top: 18px;
+}
+.grow-btn{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 13px;
+    color: #FFFFFF;
+    padding: 17px 30px;
+}
 .team-single-img .person2{
     background: #FFDE6B;
-    border-radius: 70px 61px 0px 0px;
+    border-radius: 70px 61px 0 0;
 }
 .team-single-img .person3{
     background: #F7AA92;
@@ -1119,9 +1212,73 @@ a{
 
 .br-b-1{
     border-bottom: 1px solid #A2A2A2;
-    padding-top: 30px;
+    padding-top: 90px;
 }
+.mb-100{
+    margin-bottom: 100px;
+}
+.reason-card h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
 
+    color: #253B7C;
+
+}
+.section-apply-process p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #6F6E6E;
+}
+.design-content .btn-primary{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding: 20px 27px;
+}
+.reason-card p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 144.8%;
+    /* or 20px */
+    text-indent: 2px;
+    font-feature-settings: 'kern' off;
+
+    color: #919191;
+}
+.section-apply-process .heading-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #253B7C;
+}
+.section-banner .btn-primary{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding: 20px 60px;
+}
+.heading-reason{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+
+    color: #253B7C;
+}
+.section-banner .paragraph-1{
+    margin: 35px 0;
+}
 .process-single h2{
     font-style: normal;
     font-weight: 500;
@@ -1230,9 +1387,21 @@ a{
 .become-mentor a{
     background: #353277;
     border-radius: 8px;
-    padding: 10px 80px;
     color: white;
     margin: 18px 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    padding: 20px 150px;
+}
+.section-team .heading-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #253B7C;
 }
 .become-mentor span{
     font-style: normal;
@@ -1240,7 +1409,6 @@ a{
     font-size: 12px;
     line-height: 15px;
     text-align: center;
-    margin-top: 20px;
     color: #6F6E6E;
     margin-bottom: 105px;
 }
@@ -1906,7 +2074,7 @@ body{
     background: #FFFFFF;
     box-shadow: 0 0 18px 15px rgba(0, 0, 0, 0.05);
     border-radius: 20px;
-    padding: 10px;
+    padding: 16px;
     margin-top: 30px;
 }
 .must-read-card span{
@@ -2403,6 +2571,25 @@ select.form-control{
 .team-card-desc{
     padding-bottom: 22px;
 }
+.team-card-img{
+    top: -36px;
+    bottom: 0;
+    position: absolute;
+}
+.team-card-desc .text-link{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #253B7C !important;
+    margin-top: 14px;
+}
+.team-card-img img{
+    height: 220px;
+}
+.team-section-1{
+    padding: 100px 0;
+}
 .about-banner-section{
     padding: 90px 0;
 }
@@ -2618,4 +2805,342 @@ select.form-control{
 }
 .p-10-16{
     padding: 10px 16px !important;
+}
+.card-7{
+    background: linear-gradient(180deg, #EEEEEE 0%, rgba(226, 226, 226, 0.31) 100%);
+    box-shadow: 0px 26px 70px rgba(169, 180, 203, 0.2), -3px -3px 4px #FFFFFF, 0px 3px 0px #D6DADF, inset 0px -20px 20px rgba(255, 255, 255, 0.2);
+    border-radius: 24px;
+    padding: 13px 16px;
+}
+.card-7 h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #253B7C;
+}
+.card-7 p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
+    color: #575757;
+}
+.card-7-tag span{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 13px;
+    text-align: center;
+    color: #787878;
+    background: #FFFFFF;
+    border-radius: 4px;
+    padding: 4px 8px;
+}
+.card-7-tag span:not(:first-child)
+{
+    margin-left: 5px;
+}
+.padding-20{
+    padding: 20px !important;
+}
+.cat-shadow{
+    box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15) !important;
+}
+.all-cat>:nth-child(even){
+    padding-left: 20px !important;
+}
+.all-cat>:nth-child(odd){
+    padding-left: 20px !important;
+}
+.cat-more{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 23px 90px;
+}
+.section-contact-banner h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 51px;
+    text-align: center;
+    letter-spacing: -0.03em;
+}
+.section-contact-banner h1 span{
+    color: #04A8FD;
+}
+.section-contact-banner p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    text-align: center;
+    color: #000000;
+}
+.contact-form-card{
+    background: #FFFFFF;
+    border: 1px solid #CDCDCD;
+    box-shadow: 6px 7px 34px rgba(0, 0, 0, 0.19);
+    border-radius: 24px;
+    padding: 47px 40px;
+}
+.contact-form-card h6{
+    padding-bottom: 20px;
+    border-bottom: 1px solid #BFBFBF;
+    text-align: center;
+}
+.contact-form-card .form-control,.contact-form-card .form-control:focus{
+    background: transparent !important;
+    border: none;
+    box-shadow: none !important;
+}
+.contact-form-card .input-group{
+    border: 1px solid #CDCDCD;
+    padding: 10px 18px;
+    box-shadow: 6px 6px 19px rgba(0, 0, 0, 0.15);
+    border-radius: 7px;
+    background: #FFFFFF;
+}
+.contact-form-card .input-group div{
+    display: flex;
+    align-items: center;
+}
+.contact-form-card .input-group-text{
+    background-color: #FFFFFF;
+    border-right: none;
+}
+.contact-form-card .btn-primary{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 21px;
+    min-width: 100%;
+    margin-top: 22px;
+}
+.contact-form-card form{
+    padding: 30px;
+}
+.section-contact-banner{
+    padding-top: 90px;
+}
+.section-contact-banner img{
+    padding: 20px;
+}
+.section-map{
+    padding-top: 100px;
+}
+.section-map .container .map-card{
+    background: #FFFFFF;
+    border: 1px solid #CDCDCD;
+    box-shadow: 6px 7px 34px rgba(0, 0, 0, 0.19);
+    border-radius: 22px;
+    padding: 30px 36px;
+}
+.icon-container{
+    background: #DBDBDB;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon-container img{
+    width: 100%;
+    height: 20px;
+}
+.faq-heading{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+.section-faq{
+    padding: 100px;
+}
+.faq-accordion-bg{
+    background: #E1F7FF;
+    border-radius: 6px;
+}
+.faq-detail{
+    padding: 16px 30px;
+}
+.section-contact-ask
+{
+    padding-bottom: 110px;
+}
+.contact-ask-card{
+    background: #253B7C;
+    border-radius: 34px;
+    padding: 48px 60px;
+}
+.ask-desc p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+}
+.ask-desc h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    color: #FFFFFF;
+    margin: 16px 0;
+}
+.ask-desc span{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.ask-desc textarea{
+    padding: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 30px 0;
+}
+.ask-desc input[type="email"]{
+    min-height: 56px;
+}
+.ask-desc .btn-secondary{
+    background: #FFD84E;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #253B7C;
+    padding: 19px 32px;
+}
+.about-author-section{
+    padding-top: 90px;
+}
+.back-author a{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #ADADAD;
+    background: #EEEEEE;
+    border-radius: 8px;
+    padding: 10px 11px;
+    border: none;
+    outline: none;
+}
+.about-author-row{
+    margin-top: 43px;
+}
+.author-img{
+    background: #DFE7F4;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    padding-top: 34px;
+}
+.about-desc-author h2{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+
+    color: #253B7C;
+
+}
+.about-desc-author h3{
+    width: 50%;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #575757;
+}
+.about-desc-author h6{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 145.3%;
+    color: #000000;
+}
+.author-btn .btn-primary{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 17px 40px ;
+    min-width: 190px;
+    border-radius: 8px;
+}
+.blog-author-section{
+    padding: 90px 0;
+}
+.error-section{
+    height: 100vh;
+}
+.error-section h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 50px;
+    text-transform: uppercase;
+    color: #2E296E;
+}
+.error-section  p{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #353277;
+}
+.error-section .btn{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding: 21px 50px;
+    border-radius: 8px;
+}
+.error-section .btn-secondary{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    background: #FFD84E;
+    color: #353277;
+    border: none;
+}
+.term-section,.policy-section{
+    padding: 80px 0;
+}
+.policy-section h1,.term-section h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    text-transform: capitalize;
+    color: #253B7C;
+}
+.policy-section h6,.term-section h6{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: capitalize;
+    color: #494949;
 }

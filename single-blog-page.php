@@ -546,20 +546,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
@@ -569,20 +569,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
@@ -592,20 +592,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
@@ -615,20 +615,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
@@ -638,20 +638,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
@@ -661,20 +661,20 @@
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
-                        <div class="d-flex justify-content-between mt-2 mb-2">
+                        <div class="d-flex justify-content-between mt-3 mb-2">
                             <p class="blog-text">Financials</p>
                             <p class="blog-text">2 mins of Read | 30th April 2022</p>
                         </div>
                         <h4 class="text-primary">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h4>
                         <div class="blog-action d-flex justify-content-between mt-4">
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/share.svg" class="d-inline"> Share
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/share.svg" class="d-inline"> <span class="ml-2">Share</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/chat.svg" class="d-inline"> Comment
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/chat.svg" class="d-inline"> <span class="ml-2">Comment</span>
                             </div>
-                            <div class="blog-share blog-action-text d-flex">
-                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-1">4.6k</span>
+                            <div class="blog-share blog-action-text d-flex align-items-center">
+                                <img src="assets/images/icons/view.svg" class="d-inline"> <span class="ml-2">4.6k</span>
                             </div>
                         </div>
                     </div>
