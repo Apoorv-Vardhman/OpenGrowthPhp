@@ -3144,3 +3144,36 @@ select.form-control{
     text-transform: capitalize;
     color: #494949;
 }
+.card-8{
+    background: linear-gradient(180deg, rgba(174, 199, 158, 0.19) 0%, rgba(254, 217, 208, 0) 100%);
+    box-shadow: inset 0px -20px 20px rgba(255, 255, 255, 0.2);
+    border-radius: 27px;
+    height: 150px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: drop-shadow(0px 22px 70px rgba(169, 180, 203, 0.2)) drop-shadow(-3px -3px 4px #FFFFFF) drop-shadow(0px 3px 0px #D6DADF);
+}
+.card-8-desc{
+    text-align: center;
+    margin-top: 20px ;
+}
+.card-8-desc h5{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    color: #3F3F3F;
+}
+.intro-desc h1{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    color: #253B7C;
+}
+.intro-desc h1 span{
+    color: #52B6DF;
+}

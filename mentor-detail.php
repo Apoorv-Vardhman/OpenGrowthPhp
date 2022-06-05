@@ -339,9 +339,13 @@
         <div class="row justify-content-center  mt-4">
             <div class="become-mentor">
                 <h1 class="heading-title text-primary fs-30 text-center">Become an Mentor today</h1>
-                <p class="text-center">Join one of the world’s largest online learning marketplaces.</p>
-                <a href="">Book a session</a>
-                <span class="d-block text-center">Have any more questions about OpenGrowth mentor mentorship? <br>Write to us at hello@opengrowth.com and we'll be in touch!</span>
+                <p class="text-center mb-5">Join one of the world’s largest online learning marketplaces.</p>
+                <div class="mt-3">
+                    <a href="" >Book a session</a>
+                </div>
+                <div class="mt-5">
+                    <span class="d-block text-center">Have any more questions about OpenGrowth mentor mentorship? <br>Write to us at hello@opengrowth.com and we'll be in touch!</span>
+                </div>
             </div>
         </div>
     </div>

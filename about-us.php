@@ -153,7 +153,7 @@ include_once "header.php"
 </section>
 
 <section class="about-community-section">
-    <div class="container">
+    <div class="container mb-3">
         <div class="row">
             <div class="col-md-6 learn-single mt-4">
                 <img src="assets/images/organised.png">
@@ -185,6 +185,84 @@ include_once "header.php"
             </div>
         </div>
     </div>
+    <div class="section-contact-ask mt-5">
+        <div class="container">
+            <div class="row contact-ask-card">
+                <div class="col-lg-6">
+                    <img src="assets/images/contact-1.png">
+                </div>
+                <div class="col-lg-6">
+                    <div class="ask-desc">
+                        <p>OpenGrowth Community</p>
+                        <h2>Ask, Share, Discuss and Clear Your Problems</h2>
+                        <span>Ask your doubts here with OpenGrowth community and get the answers by experts and other entrepreneur.</span>
+                        <textarea required class="form-control" rows="7"  placeholder="Sample Question : Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."></textarea>
+                        <div class="row">
+                            <div class="col-md-7">
+                                <input class="form-control" name="email" type="email" placeholder="Email: loremipsum@gmail.com">
+                            </div>
+                            <div class="col-md-5 d-flex align-items-center">
+                                <button type="submit" class="btn btn-secondary">Ask to expert</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-md-5">
+                <div class="intro-desc">
+                    <h1><span>Dummy text is</span> "Lorem "</h1>
+                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing .</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="row">
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card-8">
+                            <div class="image text-center">
+                                <img src="assets/images/webinar-1.png">
+                            </div>
+                        </div>
+                        <div class="card-8-desc">
+                            <h5>Live Sessions</h5>
+                            <p>Group learning, at comfort of your home or office is fun</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card-8">
+                            <div class="image text-center">
+                                <img src="assets/images/online-learning1.png">
+                            </div>
+                        </div>
+                        <div class="card-8-desc">
+                            <h5>Learning</h5>
+                            <p>We give you time and save your money as we want you to learn</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-lg-4">
+                        <div class="card-8">
+                            <div class="image text-center">
+                                <img src="assets/images/conversation1.png">
+                            </div>
+                        </div>
+                        <div class="card-8-desc">
+                            <h5>Interactions</h5>
+                            <p>Online Interaction with Expert is better than recorded videos </p>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <section class="team-section">
@@ -204,7 +282,7 @@ include_once "header.php"
                         <div class="row">
                             <div class="col-4 position-relative">
                                 <div class="team-card-img ">
-                                    <img src="assets/images/team-person.png">
+                                    <img src="assets/images/sourav.png">
                                 </div>
                             </div>
                             <div class="col-8">

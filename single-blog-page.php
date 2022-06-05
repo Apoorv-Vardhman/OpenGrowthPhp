@@ -119,13 +119,15 @@
                 <div class="author-con mt-5">
                     <div class="row ">
                         <div class="col-md-8">
-                            <div class="blog-author-footer">
-                                <div class="author-img ">
-                                    <img src="assets/images/blogs/blog-writer.png">
+                            <div class="row align-items-center">
+                                <div class="col-md-4 pr-0">
+                                    <img src="assets/images/blogs/blog-writer.png" style="width: 110px;height: 110px;border-radius: 50%">
                                 </div>
-                                <div class="author-desc ">
-                                    <h6>Supriya Devnath</h6>
-                                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                                <div class="col-md-8 pl-0">
+                                    <div class="author-desc ">
+                                        <h6>Supriya Devnath</h6>
+                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer.</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -507,7 +509,7 @@
                 <div class="must-read-card mt-3 padding-16">
                     <div class="row">
                         <div class="col-4 pr-0">
-                            <img src="assets/images/blogs/blog3.png" class="h-100 br-8">
+                            <img src="assets/images/blogs/blog1.png" class="h-100 br-8">
                         </div>
                         <div class="col-8 pr-1">
                             <span>Financials</span>
@@ -542,7 +544,7 @@
         <div class="owl-slider">
             <div id="featuredCarousel" class="owl-carousel">
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
@@ -565,7 +567,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
@@ -588,7 +590,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
@@ -611,7 +613,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
@@ -634,7 +636,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>
@@ -657,7 +659,7 @@
                     </div>
                 </div>
                 <div class="item">
-                    <div class="blog-single">
+                    <div class="blog-single" style="box-shadow: 0 0 18px 5px rgba(0, 0, 0, 0.15);">
                         <div class="blog-image">
                             <img src="assets/images/blogs/blog1.png">
                         </div>

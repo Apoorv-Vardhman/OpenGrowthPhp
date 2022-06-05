@@ -40,15 +40,9 @@
                     </li>
 
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown">
+                        <a class="nav-link dropdown-toggle" >
                             <i class="fas fa-search" ></i>
                         </a>
-                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                            <div class="search-box">
-                                <i class="fas fa-search"></i>
-                                <input class="search-txt" type="text" name="" placeholder="Search">
-                            </div>
-                        </div>
                     </li>
                     <li class="nav-item">
                         <a href="apply-as-mentor.php" class="btn btn-outline-dark br-8 " type="submit">Apply as mentor</a>
