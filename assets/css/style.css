@@ -309,7 +309,7 @@ a{
 }
 .blog-single{
     background: #FFFFFF;
-    box-shadow: 0px 0px 33px 6px #DEDEDE;
+    box-shadow: 0 0 13px 6px #DEDEDE;
     border-radius: 38px;
     padding: 30px;
     margin-top: 13px;
@@ -383,7 +383,7 @@ a{
 }
 .site-footer-links a,.site-footer-links a:link,.site-footer-links a:active,.site-footer-links a:hover{
     font-style: normal;
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
     line-height: 18px;
     color: #000000;
@@ -565,7 +565,7 @@ a{
     color: #575757;
 }
 .team-single-img{
-    padding: 0 30px;
+    padding: 0 45px;
     text-align: center;
 }
 .team-single-img img{
@@ -1196,8 +1196,12 @@ a{
     font-size: 32px;
     line-height: 40px;
     color: #353277;
+    margin-bottom: 15px;
 }
-
+.section-design .design-content label{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
 .design-content p{
     font-style: normal;
     font-weight: 500;
@@ -1357,7 +1361,7 @@ a{
     padding: 0 10px;
 }
 .mentor-say-card-content{
-    padding: 10px;
+    padding: 52px 10px 52px 10px;
 }
 
 .mentor-say-card-img img{
@@ -1417,7 +1421,7 @@ a{
     font-weight: 500;
     font-size: 18px;
     line-height: 23px;
-
+    margin-bottom: 43px;
     color: #616161;
 }
 
@@ -3176,4 +3180,18 @@ select.form-control{
 }
 .intro-desc h1 span{
     color: #52B6DF;
+}
+
+.search-box{
+    box-shadow: -4px 1px 8px 0 rgba(0,0,0,0.1);
+    border: 2px solid #253B7C;
+    padding: 5px 10px;
+}
+.search-box input{
+    width: 100%;
+    text-align: end;
+
+}
+.team-single-content .text-primary{
+    margin-top: 10px;
 }

@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
 </head>
 <body>
 <?php
@@ -152,25 +153,72 @@
 <!--hub desc end-->
 
 <!--mentor say-->
-<section class="section-mentor-say">
-    <div class="container">
+<section class="section-mentor-say mt-5">
+    <div class="container-fluid">
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary fs-30">Testimonial</h1>
         </div>
-        <div class="row justify-content-center mt-5">
-            <div class="col-md-8">
-                <div class="mentor-say-card d-flex">
-                    <div class="mentor-say-card-img">
-                        <img src="assets/images/mentor.png" class="w-auto">
-                    </div>
-                    <div class="mentor-say-card-content pl-3">
-                        <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
-                        <h3>Supriya Devnath Developer </h3>
-                        <h5>(Android Speciality)</h5>
+        <div class="owl-carousel" id="mentorSays">
+            <div class="item">
+                <div class="mentor-say-card">
+                    <div class="row ">
+                        <div class="col-sm-3 position-relative">
+                            <div class="mentor-say-card-img ml-3">
+                                <img src="assets/images/mentor.png" class="w-auto">
+                            </div>
+
+                        </div>
+                        <div class="col-sm-9">
+                            <div class="mentor-say-card-content pl-3 pt-5 pr-5">
+                                <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
+                                <h5 class="pb-4">(Android Speciality)</h5>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
+            <div class="item">
+                <div class="mentor-say-card">
+                    <div class="row ">
+                        <div class="col-sm-3 position-relative">
+                            <div class="mentor-say-card-img ml-3">
+                                <img src="assets/images/mentor.png" class="w-auto">
+                            </div>
+
+                        </div>
+                        <div class="col-sm-9">
+                            <div class="mentor-say-card-content pl-3 pt-5 pr-5">
+                                <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
+                                <h5 class="pb-4">(Android Speciality)</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="mentor-say-card">
+                    <div class="row ">
+                        <div class="col-sm-3 position-relative">
+                            <div class="mentor-say-card-img ml-3">
+                                <img src="assets/images/mentor.png" class="w-auto">
+                            </div>
+
+                        </div>
+                        <div class="col-sm-9">
+                            <div class="mentor-say-card-content pl-3 pt-5 pr-5">
+                                <p>“Opengrowth has changed my life. It’s allowed me to follow my passion and become a teacher I love to see my students succeed and hear them say they’ve learned more, quicker, from my courses than they did in college. It’s so humbling.”</p>
+                                <h3 class="mb-0">Supriya Devnath Developer </h3>
+                                <h5 class="pb-4">(Android Speciality)</h5>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
         </div>
+
     </div>
 </section>
 <!--mentor say end-->
@@ -205,9 +253,21 @@
 ?>
 <script src="assets/js/jquery.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
-
+<script src="assets/js/owl-carousel.js"></script>
 <script>
-
+    $("#mentorSays").owlCarousel({
+        autoplay: false,
+        rewind: true,
+        margin: 20,
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 8000,
+        smartSpeed: 800,
+        nav: false,
+        navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
+        items: 1,
+        stagePadding: 150
+    });
 </script>
 </body>
 </html>
