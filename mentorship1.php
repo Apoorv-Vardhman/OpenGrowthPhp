@@ -185,7 +185,7 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
                         <div class="item  margin-hr-15">
                             <div class="blog-single">
                                 <div class="blog-image">
-                                    <img src="assets/images/goal-1.png">
+                                    <img src="assets/images/goal-1.png" class="br-8">
                                 </div>
                                 <div class="d-flex grow-tag mt-3 mb-2">
                                     <span>Students</span>
