@@ -3195,3 +3195,42 @@ select.form-control{
 .team-single-content .text-primary{
     margin-top: 10px;
 }
+#mentorApply .owl-dots button.owl-dot.active {
+    background-color: #000 !important;
+}
+#mentorApply .owl-dots{
+    display: block;
+}
+#mentorApply .owl-dots button.owl-dot{
+    background-color: #EEEEEE !important;
+}
+.coach-our .btn-primary{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding: 23px 92px;
+}
+.coach-our .pagination span.active{
+    background: #253B7C;
+    color: white;
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    padding: 5px 13px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+}
+.coach-our .pagination li{
+    margin-right: 45px;
+}
+.coach-our .pagination li span{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #AFAFAF;
+}

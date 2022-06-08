@@ -75,8 +75,24 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
 
             </div>
             <div class="col-md-6 sm-mt-20">
-                <div class="design-img">
-                    <img src="assets/images/apply-banner-2.png">
+                <div class="owl-carousel" id="mentorApply">
+                    <div class="item">
+                        <div class="design-img">
+                            <img src="assets/images/apply-banner-2.png">
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="design-img">
+                            <img src="assets/images/apply-banner-2.png">
+                        </div>
+                    </div>
+
+                    <div class="item">
+                        <div class="design-img">
+                            <img src="assets/images/apply-banner-2.png">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -99,7 +115,7 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
             </div>
         </div>
 
-        <div class="row justify-content-center">
+        <div class="row mb-100 justify-content-center">
 			<?php
             foreach($json_array as $values) {
             ?>
@@ -121,6 +137,25 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
             <?php } ?>
 
            
+
+        </div>
+
+        <div class="row justify-content-between coach-our">
+            <div class="col-md-4">
+                <a href="" class="btn btn-primary br-8">Show More</a>
+            </div>
+            <div class="col-md-5">
+                <ul class="pagination">
+                    <li><span class="active">1</span></li>
+                    <li><span>2</span></li>
+                    <li><span>3</span></li>
+                    <li><span>4</span></li>
+                    <li><span>5</span></li>
+                    <li><span>6</span></li>
+                    <li><span>7</span></li>
+                    <li><span>8</span></li>
+                </ul>
+            </div>
 
         </div>
 
@@ -348,6 +383,19 @@ include_once "footer.php";
         stagePadding: 150
     });
 
+    $("#mentorApply").owlCarousel({
+        autoplay: false,
+        rewind: true,
+        margin: 10,
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 3000,
+        smartSpeed: 800,
+        navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
+        items: 1,
+        pagination:false,
+        navigation:true
+    });
     $("#featuredCarousel").owlCarousel({
         autoplay: false,
         rewind: true,
