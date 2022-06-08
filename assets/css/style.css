@@ -108,12 +108,18 @@ a{
     padding-top: 40px;
 }
 #featuredCarousel .item{
-    margin: 0 12px;
+    margin: 0 55px;
+}
+.margin-hr-15{
+    margin: 0 15px !important;
 }
 #featuredCarousel .owl-nav button.owl-prev{
     margin-left: -40px;
     width: 42px;
     height: 42px;
+}
+.roundimg2 {
+    border-radius: 10%;
 }
 #featuredCarousel .owl-nav button.owl-next{
     margin-right: -40px;
@@ -685,9 +691,9 @@ a{
 }
 .team-single .team-single-content{
     background: white;
-    box-shadow: 6px 13px 16px 13px rgba(0, 0, 0, 0.1);
+    box-shadow: 6px 9px 9px 3px rgba(0, 0, 0, 0.1);
     border-radius: 18px;
-    padding: 8px 10px;
+    padding: 8px 5px;
 }
 .newsletter_input_group{
     background: #FFFFFF;
@@ -2785,9 +2791,12 @@ select.form-control{
 .card-4 p{
     font-style: normal;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 12px;
     line-height: 20px;
     color: #3F3F3F;
+}
+.d-flex {
+    padding: 10px;
 }
 .card-4 .blog-author{
     display: flex;
@@ -3224,6 +3233,12 @@ select.form-control{
     font-size: 20px;
     line-height: 25px;
 }
+#carousel .owl-nav button.owl-next {
+    margin-left: 100px;
+}
+#carousel .blog-author img{
+    border-radius: 50%;
+}
 .coach-our .pagination li{
     margin-right: 45px;
 }
@@ -3234,3 +3249,8 @@ select.form-control{
     line-height: 25px;
     color: #AFAFAF;
 }
+#featuredCarousel .owl-item .blog-author img {
+    width: auto;
+    border-radius: 50%;
+}
+

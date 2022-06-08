@@ -252,7 +252,7 @@
                 <?php
                     for($i=0;$i<5;$i++)
                     { ?>
-                        <div class="item">
+                        <div class="item margin-hr-15">
                             <div class="blog-single">
                                 <div class="blog-image">
                                     <img src="assets/images/goal-1.png">

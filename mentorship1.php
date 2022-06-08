@@ -145,7 +145,7 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
                 <a href="" class="btn btn-primary br-8">Show More</a>
             </div>
             <div class="col-md-5">
-                <ul class="pagination">
+                <!--<ul class="pagination">
                     <li><span class="active">1</span></li>
                     <li><span>2</span></li>
                     <li><span>3</span></li>
@@ -154,7 +154,7 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
                     <li><span>6</span></li>
                     <li><span>7</span></li>
                     <li><span>8</span></li>
-                </ul>
+                </ul>-->
             </div>
 
         </div>
@@ -182,7 +182,7 @@ $json_array =json_decode('[{"img":"niraj.png","title":"Niraj Sharan","subtitle":
                 <?php
                     for($i=0;$i<5;$i++)
                     { ?>
-                        <div class="item">
+                        <div class="item  margin-hr-15">
                             <div class="blog-single">
                                 <div class="blog-image">
                                     <img src="assets/images/goal-1.png">
