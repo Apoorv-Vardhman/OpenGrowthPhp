@@ -339,7 +339,7 @@ height: 15px; margin-left:10px;"> </a>
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary newh1">Trending Topics</h1>
         </div>
-        <div class="mt-5">
+        <div class="mt-5 pl-5 pr-5">
             <div class="owl-carousel" id="trendingTopic">
 
                 <div class="item">
@@ -1289,7 +1289,6 @@ height: 15px; margin-left:10px;"> </a>
         autoplayTimeout: 8000,
         smartSpeed: 800,
         nav: false,
-        stagePadding: 80,
         navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
         responsive: {
             0: {
