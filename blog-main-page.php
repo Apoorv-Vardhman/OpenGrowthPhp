@@ -510,7 +510,7 @@ height: 15px; margin-left:10px;"> </a>
 
 <!--also read-->
 <section class="section-also-read">
-    <div class="container" style="max-width: 1350px;">
+    <div class="container-fluid pl-5 pr-5">
         <div class="row justify-content-center mt-5">
             <h1 class="heading-title text-primary newh1">Also Read</h1>
         </div>
