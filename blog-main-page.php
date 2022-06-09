@@ -139,7 +139,7 @@
 
 <!--blog start-->
 <section class="section-blog bg-light-hub pt-5 pb-5">
-    <div class="container-fluid pl-5 pr-5" >
+    <div class="container" >
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary newh1">All Blogs</h1>
         </div>
@@ -335,14 +335,106 @@ height: 15px; margin-left:10px;"> </a>
 
 <!--trending topic start-->
 <section class="section-trending">
-    <div class="container-fluid pl-5 pr-5">
+    <div class="container-fluid">
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary newh1">Trending Topics</h1>
         </div>
-        <div class="row mt-5">
-            <div class="col-lg-2 col-md-3 d-flex">
+        <div class="mt-5">
+            <div class="owl-carousel" id="trendingTopic">
+
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-1.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Leadership</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-4.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Interior Design</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-3.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Financial</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-4.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Entrepreneurship</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-5.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Gardening</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-1.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Leadership</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-1.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Leadership</h6>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="image-container">
+                        <div class="image">
+                            <img src="assets/images/blogs/trending-1.png">
+                        </div>
+                        <div class="image-overlay"></div>
+                        <div class="image-caption">
+                            <h6>Financial</h6>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <!--<div class="col-lg-2 col-md-3 d-flex">
                 <div class="trending-single" style="background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%), url('assets/images/blogs/trending-1.png');">
-                    <h6>Leadership</h6>
+
                 </div>
             </div>
             <div class="col-lg-2 col-md-3 d-flex">
@@ -369,8 +461,11 @@ height: 15px; margin-left:10px;"> </a>
                 <div class="trending-single ml-2" style="background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%), url('assets/images/blogs/trending-1.png');">
                     <h6>Leadership</h6>
                 </div>
-            </div>
+            </div>-->
         </div>
+
+    </div>
+    <div class="container">
 
 
         <div class="row" style="margin-top:80px; padding-left:25px; padding-right:25px;">
@@ -510,7 +605,7 @@ height: 15px; margin-left:10px;"> </a>
 
 <!--also read-->
 <section class="section-also-read">
-    <div class="container-fluid pl-5 pr-5">
+    <div class="container">
         <div class="row justify-content-center mt-5">
             <h1 class="heading-title text-primary newh1">Also Read</h1>
         </div>
@@ -555,7 +650,7 @@ height: 15px; margin-left:10px;"> </a>
                     <div class="banner-blog-card-1">
                         <div class="row">
                             <div class="col-md-5 d-flex align-items-center">
-                                <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
+                                <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
                             </div>
                             <div class="col-md-7">
                                 <div class="blog-sidebar-action row d-flex align-items-center">
@@ -583,12 +678,11 @@ height: 15px; margin-left:10px;"> </a>
                         </div>
                     </div>
                 </div>
-
                 <div class="read-card-1 read-card-mr">
                     <div class="banner-blog-card-1">
                         <div class="row">
                             <div class="col-md-5 d-flex align-items-center">
-                                <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
+                                <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                             </div>
                             <div class="col-md-7">
                                 <div class="blog-sidebar-action row d-flex align-items-center">
@@ -619,17 +713,15 @@ height: 15px; margin-left:10px;"> </a>
                         </div>
                     </div>
                 </div>
-
             </div>
         </div>
-
         <hr class="hr1 mt-5">
     </div>
 </section>
 <!--also read end-->
 
 <section class="section-blog-remain mb-5">
-    <div class="container-fluid pl-5 pr-5">
+    <div class="container">
         <div class="row">
             <div class="col-lg-8">
                 <div class="card-4 card-4-br-b">
@@ -1188,6 +1280,35 @@ height: 15px; margin-left:10px;"> </a>
             }
         }
     });
+    $("#trendingTopic").owlCarousel({
+        autoplay: false,
+        rewind: true,
+        margin: 20,
+        responsiveClass: true,
+        autoHeight: true,
+        autoplayTimeout: 8000,
+        smartSpeed: 800,
+        nav: false,
+        stagePadding: 80,
+        navText: ['<span class="fas fa-arrow-left "></span>','<span class="fas fa-arrow-right"></span>'],
+        responsive: {
+            0: {
+                items: 1
+            },
+
+            600: {
+                items: 4
+            },
+
+            1024: {
+                items: 6
+            },
+
+            1366: {
+                items: 6
+            }
+        }
+    })
     $("#featuredCarousel").owlCarousel({
         autoplay: false,
         rewind: true,

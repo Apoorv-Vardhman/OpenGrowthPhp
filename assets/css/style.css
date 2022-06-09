@@ -3270,4 +3270,48 @@ select.form-control{
     width: auto;
     border-radius: 50%;
 }
-
+.image-container{
+    position: relative;
+}
+.image-container .image-caption{
+    position: absolute;
+    transform: translate(-50%,-50%);
+    bottom: 10px;
+    left: 50%;
+    width: 100%;
+}
+.image-container .image{
+    border-radius: 16px;
+    overflow: hidden;
+}
+.image-container .image img{
+    border-radius: 16px;
+    transition: all .5s;
+    transform: scale(1);
+    max-width: 100%;
+}
+.image-container:hover{
+    cursor: pointer;
+}
+.image-container .image-caption h6{
+    margin-bottom: 0;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.image-container .image-overlay{
+    position: absolute;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.7) 100%);
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 16px;
+    overflow: hidden;
+}
+.image-container:hover img{
+    transform: scale(1.2);
+}
