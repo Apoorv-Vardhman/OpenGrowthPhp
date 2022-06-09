@@ -107,7 +107,7 @@
                                         <div class="col-lg-6 pr-0 pl-0">
                                             <span><img src="assets/images/icons/chat.svg" class="w-auto d-inline"> <span class="ml-1">786 Comments</span> </span>
                                         </div>
-                                        <div class="col-lg-3 pl-0 pr-0">
+                                        <div class="col-lg-3 pl-0 pr-1">
                                             <span><img src="assets/images/icons/view.svg" class="w-auto d-inline"> <span class="ml-1">4.6k</span> </span>
                                         </div>
                                     </div>
@@ -640,7 +640,7 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
+                            <div class="row justify-content-between">
                                 <div class="col-md-5 d-flex align-items-center">
                                     <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
                                 </div>
@@ -678,7 +678,7 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
+                            <div class="row justify-content-between">
                                 <div class="col-md-5 d-flex align-items-center">
                                     <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
                                 </div>
@@ -716,7 +716,7 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
+                            <div class="row justify-content-between">
                                 <div class="col-md-3 d-flex align-items-center">
                                     <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
                                 </div>
@@ -759,14 +759,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -784,14 +784,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -809,14 +809,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -834,14 +834,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -859,14 +859,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -884,14 +884,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <p class="blog-brand">Branding</p>
                                 <h2>Developing Personal Brand on Social Media</h2>
                             </div>
-                            <div class="blog-sidebar-action row d-flex align-items-center" style="padding: 6px;">
-                                <div class="col-lg-3 pr-0 pl-0">
+                            <div class="blog-sidebar-action d-flex align-items-center justify-content-between" style="padding: 6px;">
+                                <div class="pr-0 pl-0">
                                     <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                 </div>
-                                <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                <div class="pr-0 pl-0 d-flex align-items-center">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                 </div>
-                                <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                <div class="pl-0 pr-0 d-flex align-items-center">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
@@ -923,20 +923,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
@@ -961,20 +961,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
@@ -999,20 +999,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1039,20 +1039,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1077,20 +1077,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
@@ -1115,20 +1115,20 @@ height: 15px; margin-left:10px;"> </a>
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                            <div class="row justify-content-between">
+                                <div class="col-md-4 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding</p>
                                 </div>
-                                <div class="col-md-7">
-                                    <div class="blog-sidebar-action row align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                <div class="col-md-8">
+                                    <div class="blog-sidebar-action d-flex">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
-                                            <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
+                                        <div class="pl-1 pr-0 ">
+                                            <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
                                 </div>
