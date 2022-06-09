@@ -108,7 +108,7 @@ a{
     padding-top: 40px;
 }
 #featuredCarousel .item{
-    margin: 0 55px;
+    margin: 0 44px;
 }
 .margin-hr-15{
     margin: 0 15px !important;
@@ -1763,6 +1763,22 @@ header{
     line-height: 13px;
     color: #AFAFAF;
 }
+.blog-sidebar-action div:nth-child(2){
+    text-align: center;
+}
+.blog-sidebar-action div:nth-child(3){
+    text-align: end;
+}
+.card-4 .blog-sidebar-action{
+    justify-content: space-between;
+}
+.card-4 .blog-sidebar-action div{
+    align-items: center;
+    display: flex;
+}
+.banner-blog-card-1 .blog-author div{
+    padding: 10px;
+}
 .blog-modern-sidebar h1{
     font-style: normal;
     font-weight: 700;
@@ -1904,7 +1920,7 @@ header{
 .trending-sidebar{
     box-shadow: 0 0 22px 5px rgba(0, 0, 0, 0.1);
     border-radius: 30px;
-    padding: 10px;
+    padding: 16px;
 }
 .trending-sidebar img{
     border-radius: 20px;
@@ -2795,9 +2811,7 @@ select.form-control{
     line-height: 20px;
     color: #3F3F3F;
 }
-.d-flex {
-    padding: 10px;
-}
+
 .card-4 .blog-author{
     display: flex;
     align-items: center;

@@ -139,7 +139,7 @@
 
 <!--blog start-->
 <section class="section-blog bg-light-hub pt-5 pb-5">
-    <div class="container" style="max-width: 1340px;">
+    <div class="container-fluid pl-5 pr-5" >
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary newh1">All Blogs</h1>
         </div>
@@ -335,7 +335,7 @@ height: 15px; margin-left:10px;"> </a>
 
 <!--trending topic start-->
 <section class="section-trending">
-    <div class="container" style="max-width: 1350px;">
+    <div class="container-fluid pl-5 pr-5">
         <div class="row justify-content-center">
             <h1 class="heading-title text-primary newh1">Trending Topics</h1>
         </div>
@@ -411,14 +411,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <span>2 mins of Read | 30th April 2022</span>
                             </div>
                             <h3 class="mt-2">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h3>
-                            <div class="blog-sidebar-action d-flex">
-                                <div class="col pl-1 pr-0">
+                            <div class="blog-sidebar-action d-flex p-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/share.svg"> <span class="ml-2">Share</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-2">Comment</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
                                 </div>
                             </div>
@@ -436,14 +436,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <span>2 mins of Read | 30th April 2022</span>
                             </div>
                             <h3 class="mt-2">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h3>
-                            <div class="blog-sidebar-action d-flex">
-                                <div class="col pl-1 pr-0">
+                            <div class="blog-sidebar-action d-flex p-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/share.svg"> <span class="ml-2">Share</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-2">Comment</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
                                 </div>
                             </div>
@@ -461,14 +461,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <span>2 mins of Read | 30th April 2022</span>
                             </div>
                             <h3 class="mt-2">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h3>
-                            <div class="blog-sidebar-action d-flex">
-                                <div class="col pl-1 pr-0">
+                            <div class="blog-sidebar-action d-flex p-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/share.svg"> <span class="ml-2">Share</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-2">Comment</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
                                 </div>
                             </div>
@@ -486,14 +486,14 @@ height: 15px; margin-left:10px;"> </a>
                                 <span>2 mins of Read | 30th April 2022</span>
                             </div>
                             <h3 class="mt-2">Inspiring Diverse, Inclusive &amp; Impact-driven Entrepreneurship</h3>
-                            <div class="blog-sidebar-action d-flex">
-                                <div class="col pl-1 pr-0">
+                            <div class="blog-sidebar-action d-flex p-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/share.svg"> <span class="ml-2">Share</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/chat.svg"> <span class="ml-2">Comment</span>
                                 </div>
-                                <div class="col pl-1 pr-0">
+                                <div class="col pr-0 pl-0">
                                     <img src="assets/images/icons/view.svg"> <span class="ml-2">4.6k</span>
                                 </div>
                             </div>
@@ -576,7 +576,7 @@ height: 15px; margin-left:10px;"> </a>
 
                         <div class="blog-author">
                             <img src="assets/images/blogs/blog-writer.png" style="border-radius:50%">
-                            <div class="ml-2">
+                            <div class="">
                                 <h6 class="mb-0">Supriya Devnath</h6>
                                 <p class="mb-0 mt-1">18 May 2022 • 4 min read</p>
                             </div>
@@ -612,9 +612,9 @@ height: 15px; margin-left:10px;"> </a>
 
                         <div class="blog-author">
                             <img src="assets/images/blogs/blog-writer.png" style="border-radius:50%">
-                            <div>
-                                <h6>Supriya Devnath</h6>
-                                <p>18 May 2022 • 4 min read</p>
+                            <div class="">
+                                <h6 class="mb-0">Supriya Devnath</h6>
+                                <p class="mb-0 mt-1">18 May 2022 • 4 min read</p>
                             </div>
                         </div>
                     </div>
@@ -635,8 +635,8 @@ height: 15px; margin-left:10px;"> </a>
                 <div class="card-4 card-4-br-b">
                     <div class="row">
                         <div class="col-lg-4">
-                            <div class="card-4-img">
-                                <img src="assets/images/card-4-img.png" class="roundimg2" style="width: 100%;height: 240px;">
+                            <div class="card-4-img h-100">
+                                <img src="assets/images/card-4-img.png" class="roundimg2 h-100" style="width: 100%;height: 240px;">
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -645,14 +645,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
                                 </div>
                                 <div class="col-md-7">
-                                    <div class="blog-sidebar-action row d-flex align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                    <div class="blog-sidebar-action row pr-4">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                        <div class="pl-1 pr-0 ">
                                             <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
@@ -673,24 +673,24 @@ height: 15px; margin-left:10px;"> </a>
                 <div class="card-4 card-4-br-b">
                     <div class="row">
                         <div class="col-lg-4">
-                            <div class="card-4-img">
-                                <img src="assets/images/card-4-img.png" class="roundimg2" style="width: 100%;height: 240px;">
+                            <div class="card-4-img h-100">
+                                <img src="assets/images/card-4-img.png" class="roundimg2 h-100" style="width: 100%;height: 240px;">
                             </div>
                         </div>
                         <div class="col-lg-8">
                             <div class="row">
-                                <div class="col-md-3 d-flex align-items-center">
-                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
+                                <div class="col-md-5 d-flex align-items-center">
+                                    <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding &amp; Marketing</p>
                                 </div>
                                 <div class="col-md-7">
-                                    <div class="blog-sidebar-action row d-flex align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                    <div class="blog-sidebar-action row pr-4">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                        <div class="pl-1 pr-0 ">
                                             <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
@@ -710,10 +710,9 @@ height: 15px; margin-left:10px;"> </a>
                 </div>
                 <div class="card-4 ">
                     <div class="row">
-                        <div class="col-lg-4">
-
+                        <div class="col-lg-4 h-100">
                             <div class="card-4-img">
-                                <img src="assets/images/card-4-img.png" class="roundimg2" style="width: 100%;height: 240px;">
+                                <img src="assets/images/card-4-img.png" class="roundimg2 h-100" style="width: 100%;height: 240px;">
                             </div>
                         </div>
                         <div class="col-lg-8">
@@ -722,14 +721,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <p class="blog-brand fs-12 p-0 m-0 mb-0">Branding </p>
                                 </div>
                                 <div class="col-md-7">
-                                    <div class="blog-sidebar-action row d-flex align-items-center">
-                                        <div class="col-lg-3 pr-0 pl-0">
+                                    <div class="blog-sidebar-action row pr-4">
+                                        <div class="pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
-                                        <div class="col-lg-6 pr-0 pl-0 d-flex align-items-center">
+                                        <div class="pr-0 pl-0 ">
                                             <img src="assets/images/icons/chat.svg"> <span class="ml-1">786 Comments</span>
                                         </div>
-                                        <div class="col-lg-3 pl-1 pr-0 d-flex align-items-center">
+                                        <div class="pl-1 pr-0 ">
                                             <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                         </div>
                                     </div>
@@ -753,7 +752,7 @@ height: 15px; margin-left:10px;"> </a>
                 <div class="card-6 card-6-br">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
@@ -778,7 +777,7 @@ height: 15px; margin-left:10px;"> </a>
                 <div class="card-6 card-6-br">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
@@ -796,13 +795,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="card-6 card-6-br">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
@@ -820,13 +820,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="card-6 card-6-br">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
@@ -844,13 +845,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="card-6 card-6-br">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
@@ -868,13 +870,14 @@ height: 15px; margin-left:10px;"> </a>
                                     <img src="assets/images/icons/view.svg"> <span class="ml-1">4.6k</span>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="card-6">
                     <div class="row">
                         <div class="col-4">
-                            <img src="assets/images/recent-card-5.png" class="br-12">
+                            <img src="assets/images/recent-card-5.png" class="br-12 h-100">
                         </div>
                         <div class="col-8 pl-0">
                             <div class="blog-sidebar-desc">
