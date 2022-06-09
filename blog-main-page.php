@@ -44,7 +44,7 @@
                                                     Lorem Ipsum has been the industry's standard dummy text ever since the 1500s
                                                     <span class="text-secondary">Read More...</span></p>
                                                 <div class="row justify-content-end ">
-                                                    <div class="col-lg-9 col-md-12">
+                                                    <div class="col-lg-9 col-md-12 pr-4">
                                                         <div class="blog-sidebar-action row">
                                                             <div class="col-md-3 pr-0 pl-0">
                                                                 <span><img src="assets/images/icons/share.svg" class="w-auto d-inline">  &nbsp;  Share </span>
@@ -100,7 +100,7 @@
                                     </div>
                                 </div>
                                 <div class="col-7">
-                                    <div class="blog-sidebar-action row">
+                                    <div class="blog-sidebar-action row pr-4">
                                         <div class="col-lg-3 pr-0 pl-0">
                                             <span><img src="assets/images/icons/share.svg" class="w-auto d-inline"> <span class="ml-1">Share</span> </span>
                                         </div>
@@ -502,7 +502,7 @@ height: 15px; margin-left:10px;"> </a>
                 </div>
             </div>
         </div>
-        <hr class="hr1 mt-5">
+        <hr class="hr1 mt-100">
 
     </div>
 </section>
@@ -629,7 +629,7 @@ height: 15px; margin-left:10px;"> </a>
 <!--also read end-->
 
 <section class="section-blog-remain mb-5">
-    <div class="container">
+    <div class="container-fluid pl-5 pr-5">
         <div class="row">
             <div class="col-lg-8">
                 <div class="card-4 card-4-br-b">
